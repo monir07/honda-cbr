@@ -1,0 +1,40 @@
+.bg-blue{
+    background-color: #264653;
+}
+.btn-color{
+    background-color: #E76F51;
+    color:white;
+
+}
+.text-cbr{
+    color: #E76F51;
+}
+.btn-color:hover{
+    background-color: #b64b30;
+    color:rgb(54, 50, 50);
+}
+.b-w{
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.user-img{
+    display: block;
+    margin: auto;
+    padding: 3rem;
+    width: 350px;
+    
+}
+
+.faq-img{
+    padding: 3rem;
+    width: 75%;
+}
+
+.checked {
+    color: orange;
+}
+.accordion-item{
+    margin-bottom: 1rem;
+    border-top: 1px solid lightgray !important;
+}
